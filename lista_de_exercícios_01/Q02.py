@@ -1,0 +1,1 @@
+print('Nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agradar a nós mesmos. Suportar, não meramente tolerar ou “aguentar”, mas sustentar com amor.\nAutor: Paulo de Tarso')
